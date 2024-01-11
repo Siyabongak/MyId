@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyId</string>
+    <string name="button">SUBMIT</string>
+    <string name="app_TV">TextView</string>
+    <string name="Id_number">Please enter Id number</string>
+</resources>
